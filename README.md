@@ -46,3 +46,6 @@ Bert_Fine_Tuning/
 ## Project Explanation
 
 The project is a basic demonstration of fine-tuning BERT for sentiment analysis. The IMDB dataset is used, which contains 50,000 movie reviews labeled as positive or negative. The model is trained for two epochs using the Hugging Face Trainer API, which simplifies the training process.
+
+ ## Project Tested
+ This project tested successfully in Colab.
